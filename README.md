@@ -1,4 +1,4 @@
-# Metaverse-for-Smart-Factory-Contest-2022-Team-10-Blue-Ocean-Technology
+# Metaverse for Smart Factory Contest 2022
 ผลงานการแข่งขัน Metaverse for Smart Factory Contest 2022 (https://smartfactory.hcilab.net/contest/metaverse2022/)
 ## ชื่อผลงาน บลูโอเชี่ยน เอ็กซ์อาร์ซิมพลัส: แพลตฟอร์มจำลองการฝึกเสมือนจริง [ดิจิทัล ทวิน โมดูล] (BlueOcean XRSIM+ : Immersive Simulation-Based Training Platform [Digital twin Module])
 ### ที่มาและความสำคัญ
@@ -11,3 +11,13 @@
 2. ผู้ใช้งานสามารทดลองควบคุมการทำงานของเครื่องจักรจริงได้แบบ share resource
 ### ภาพรวมระบบ
 เป็นระบบเสมือนจริงด้วย Immersive Technology โดยระบบจะจำลองอุปกรณ์เสมือนจริง (Virtual Equipment) สำหรับการฝึกควบคุม PLC เบื้องต้น ตามรูปแบบของระบบ Tele Sorting และสามารถรับคำสั่งให้แสดงผลตามอุปกรณ์จริง (Digital Twin) ด้วยค่าจาก Sensor &amp; Actuator แนวคิดเกี่ยวกับการใช้งานโปรแกรมจำลองการทำงาน (Simulation) ร่วมกับ Tele Sorting System จัดทำอุปกรณ์เสมือนจริงตามแบบของระบบ Tele sorting ต้นแบบ และแสดงผล + Action ตามค่าเซนเซอร์ และ อุปกรณ์ผลักชิ้นงาน (actuator)ผู้ใช้งานสามารถกำหนดรูปแบบการควบคุมในระบบเสมือนจริงให้ตรงตามของจริงได้
+
+### คลิปนำเสนอผลงาน
+## รายชื่อสมาชิกทีม Blue Ocean Technology
+1. เพิ่มพงศ์ เอี้ยวบันดาลสุข
+2. อัจฉรา เอี้ยวบันดาลสุข
+3. บุรินทร์ อุดมกุล
+4. อารยัน คำเงิน
+5. อินทัช เอี้ยวบันดาลสุข 
+### ช่องทางการติดต่อ
+Email: innovator@blueoceantechnology.co.th
